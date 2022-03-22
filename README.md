@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Hi there, I am Akshay krishna 
+
+Cool of you to come here 
 
 <!--
 **akshay-krishna/akshay-krishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,21 +1,19 @@
-### 👋 Hi there, I am Akshay krishna 
+## 👋 Howdy Stranger :cowboy_hat_face:
 
-Cool of you to come here, How you doing,hope you are fine :grin:. Oh yeah I am fine thanks for asking stranger.
+Cool of you to come here, How you doing,hope you are fine :grin:. What's That? Oh yeah I am fine thanks for asking stranger.
 
 #### So Who am I?
-well I am a computer nerd :nerd_face:, yeah you heard that right. 
+You can call me Akshay a computer nerd :nerd_face:, yeah you heard that right and I am prod of it. I am a fullstack developer with skill in the javascript universe. I know my way around React,node and much more so if you want some help there maybe I can help
 
-<!--
-**akshay-krishna/akshay-krishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a Trading System
+- 💬 Ask me about
+  - javascript/typescript
+  - react.js
+  - node.js
+  - mongodb
+  - clean code
+  - functional programming
+  - general coding stuffs
+  - philosophy (for both coding and life:sunglasses:)
+  - and much more
+- 📫 How to reach me: [gmail](mailto:achuakshay9000@gmail.com)

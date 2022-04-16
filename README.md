@@ -1,6 +1,9 @@
 ### 👋 Hi there, I am Akshay krishna 
 
-Cool of you to come here 
+Cool of you to come here, How you doing,hope you are fine :grin:. Oh yeah I am fine thanks for asking stranger.
+
+#### So Who am I?
+well I am a computer nerd :nerd_face:, yeah you heard that right. 
 
 <!--
 **akshay-krishna/akshay-krishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

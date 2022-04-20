@@ -16,4 +16,4 @@ You can call me Akshay a computer nerd :nerd_face:, yeah you heard that right an
   - general coding stuffs
   - philosophy (for both coding and life:sunglasses:)
   - and much more
-- 📫 Need Something Drop a Main: [gmail](mailto:achuakshay9000@gmail.com)
+- 📫 Need Something drop a mail: [gmail](mailto:achuakshay9000@gmail.com)
